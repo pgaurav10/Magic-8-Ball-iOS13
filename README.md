@@ -1,18 +1,20 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Magic 8 Ball
 
-## Our Goal
+![Magic 8 ball](Documentation/Magic 8 ball.gif)
 
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
+## Goal
 
-## What you will create
+The Magic 8 Ball app is a fun and entertaining application developed using Swift. It simulates the experience of a Magic 8 Ball toy, providing users with random responses to their questions. With this app, users can seek guidance and make decisions by simply shaking their device and receiving a randomized answer from the virtual Magic 8 Ball. Key features of the app include:
 
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+## Randomized Responses 
+The Magic 8 Ball app generates random responses to user questions, mimicking the unpredictable nature of the classic toy. Users can ask a question and receive an answer by shaking their device or tapping a button.
 
+## User Interaction 
+The app encourages user engagement by allowing them to interact with the virtual Magic 8 Ball. Users can input their questions and trigger the generation of a response through intuitive gestures or button taps.
 
+## Simple and Intuitive Design 
+The app features a user-friendly interface with a design reminiscent of the iconic Magic 8 Ball toy. It provides a seamless user experience, making it easy for users to ask questions and receive answers without unnecessary complexity.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+## Swift Programming Language 
+Developed entirely in Swift, the Magic 8 Ball app demonstrates the versatility and power of the Swift programming language for iOS app development. Swift's concise syntax and robust features enable developers to create engaging and interactive applications with ease.
 
