@@ -1,6 +1,6 @@
 # Magic 8 Ball
 
-![Magic 8 ball](Documentation/Magic 8 ball.gif)
+![Magic-8-ball](Documentation/Magic-8-ball.gif)
 
 ## Goal
 
